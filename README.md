@@ -11,7 +11,18 @@
 
 **[🎮 Experience the Live Demo](https://rorrimaesu.github.io/AiGameTheoryFishbowl-PrisonersDilemma/) | [📖 Dive into Research](#research) | [☕ Fuel More Innovation](https://buymeacoffee.com/rorrimaesu)**
 
-![Game Theory Fishbowl Preview](https://via.placeholder.com/800x400/1a1a2e/eee?text=🧠+AI+Game+Theory+Fishbowl+🎯)
+<div align="center">
+
+![Game Theory Fishbowl - Main Interface](./images/screenshot_game_theory.jpg)
+*Interactive AI vs AI simulation with real-time strategy tooltips*
+
+![Game Theory Fishbowl - Strategy Analysis](./images/screenshot_game_theory2.jpg)
+*Deep dive into AI decision-making with educational overlays*
+
+![Game Theory Fishbowl - Live Tournament](./images/screenshot_game_theory3.jpg)
+*Watch as artificial minds compete using different cooperation strategies*
+
+</div>
 
 *Watch as artificial minds navigate the eternal question: "Should I trust you?"*
 
@@ -34,6 +45,36 @@ You're looking at something revolutionary—**the first simulation that makes AI
 - **🌍 Universal Relevance** - The same patterns governing AI behavior shape everything from international diplomacy to your morning coffee queue
 
 *This isn't just education—it's **intellectual entertainment** that happens to teach Nobel Prize-winning concepts.*
+
+---
+
+## 📸 Visual Tour: See the Magic in Action
+
+<table>
+<tr>
+<td width="33%">
+
+### 🎯 Main Simulation
+![Main Interface](./images/screenshot_game_theory.jpg)
+**Live AI Competition** - Watch agents positioned in a fishbowl arena, each representing different strategies from classic game theory
+
+</td>
+<td width="33%">
+
+### 🧠 Strategy Deep Dive  
+![Strategy Analysis](./images/screenshot_game_theory2.jpg)
+**Educational Tooltips** - Hover any agent for rich insights into their decision-making philosophy and real-world applications
+
+</td>
+<td width="33%">
+
+### 📊 Real-time Analytics
+![Live Tournament](./images/screenshot_game_theory3.jpg)
+**Performance Tracking** - Live charts, leaderboards, and match history showing how cooperation evolves over time
+
+</td>
+</tr>
+</table>
 
 ---
 
