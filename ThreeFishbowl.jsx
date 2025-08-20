@@ -716,7 +716,7 @@ function Crown3D({ position, averageHeight = 1.6, agentBounds = null }) {
   useEffect(() => {
     const loadCrown = async () => {
       const loader = new FBXLoader();
-      const path = '/character_3dmodels/crown/base_basic_shaded.fbx';
+  const path = import.meta.env.BASE_URL + 'character_3dmodels/crown/base_basic_shaded.fbx';
       
       try {
         const fbx = await new Promise((resolve, reject) => {
@@ -1151,7 +1151,7 @@ function BoxingRing({ desiredRadius = 3, groundY = -1.8, averageHeight = 1.6 }) 
   useEffect(() => {
     const loader = new FBXLoader();
     // Use direct path to known file location
-    const path = '/boxingRing/base_basic_shaded.fbx';
+  const path = import.meta.env.BASE_URL + 'boxingRing/base_basic_shaded.fbx';
   if (DEBUG) { console.log('[BoxingRing] loading', path); }
     loader.load(
       path,
